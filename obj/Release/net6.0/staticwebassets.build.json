@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JcGSI+VGsi3BtxZL5V7EeKanWDbSVQrRaPYNwUJFa78=",
+  "Source": "MemoryWebApi",
+  "BasePath": "_content/MemoryWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
